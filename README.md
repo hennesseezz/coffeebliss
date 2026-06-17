@@ -2,7 +2,7 @@
 
 ---
 
-## Teknologi yang Digunakan
+## Tech Stack
 
 | Teknologi | Versi | Fungsi |
 |---|---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## Struktur Project
+## App Structure
 
 ```
 CoffeeBliss/
